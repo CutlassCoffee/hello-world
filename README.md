@@ -1,5 +1,5 @@
 # hello-world
 first repository
 
-progamming
+progamming RULEZ!
 
